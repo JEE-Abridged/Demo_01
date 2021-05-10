@@ -13,6 +13,7 @@ public class Demo01 {
 			}
 		}
 		System.out.println("End of the program.");
+		System.out.println("Thankyou for using this tool.");
 	}
 
 }
